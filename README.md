@@ -5,3 +5,6 @@ A mobile application like Boss Recruitment
 技术栈：
 前端：React全家桶+ES6+Webpack
 后端：Node+Express+Mongodb+Mongoose+socketIO
+
+（1） 项目功能界面
+
